@@ -1,10 +1,6 @@
-# Projeto 05 (Trilha Simplificada) - Seção Hero de Landing Page
+# Projeto 05  - Seção Hero de Landing Page
 
- 
 
-Este projeto foca na criação da seção de boas-vindas de uma página, a "Hero Section", com ênfase em tipografia, espaçamento e "call-to-action".
-
- 
 
 ## 🚀 Sobre o Projeto
 
@@ -36,7 +32,6 @@ O projeto consiste em uma única seção de página que ocupa a tela inteira, co
 
  
 
-## 💻 Como Executar
 
  
 
