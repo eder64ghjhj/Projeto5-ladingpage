@@ -1,4 +1,4 @@
-# Projeto 05  - Seção Hero de Landing Page
+# Projeto 05  - Landing Page
 
 
 
